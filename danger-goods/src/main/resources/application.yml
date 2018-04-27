@@ -1,0 +1,9 @@
+eureka:
+  client:
+    service-url:
+      defaultZone:  http://localhost:7001/eureka
+spring:
+  application:
+    name: danger-goods
+server:
+  port: 7050
