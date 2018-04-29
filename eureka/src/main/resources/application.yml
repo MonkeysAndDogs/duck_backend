@@ -9,4 +9,4 @@ spring:
   application:
     name: eureka-server
 server:
-  port: 7001
+  port: 8761
